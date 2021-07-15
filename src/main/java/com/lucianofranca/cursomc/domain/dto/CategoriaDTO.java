@@ -1,4 +1,4 @@
-package com.lucianofranca.cursomc.domain.dto;
+	package com.lucianofranca.cursomc.domain.dto;
 
 import java.io.Serializable;
 
